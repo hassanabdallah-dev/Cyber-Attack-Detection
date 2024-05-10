@@ -36,11 +36,4 @@ To test and run the approach, ensure you have the following prerequisites instal
 - Neo4j: [Download Neo4j](https://neo4j.com/download/)
 - IDE (e.g., PyCharm): [Download PyCharm](https://www.jetbrains.com/pycharm/download/)
 
-## Getting Started
-
-1. Clone this repository to your local machine.
-2. Install Neo4j and set up the database.
-3. Open the project in your preferred IDE (e.g., PyCharm).
-4. Execute `main.py` to run the attack detection system.
-
 
